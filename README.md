@@ -31,7 +31,7 @@ Attaque pkm      | Attaque pkm      | Les deux pokémons s'attaquent mutuellemen
 Attaque pkm      | Attaque dresseur | A inflige des dégats à B. B inflige des dégats à dresseurs A
 Défense dresseur | Attaque pkm      | A n'inflige aucun dégât. B inflige des dégâts minorés de 25% à A
 Défense dresseur | Attaque dresseur | A inflige des 50% de dégâts à B en se défandant. B inflige 25% de dégats au dresseur
-Défense dresseur | Défense dresseur | Chaque pokémon récupère 10% des HP manquants
+Défense dresseur | Défense dresseur | Chaque pokémon récupère 10% de ses HP (dans la limite de ses HP max)
 
 * Un pokémon meurt lorsque ses HP tombent à 0, il est alors automatiquement remplacé par le prochain pokémon du dresseur.
 
