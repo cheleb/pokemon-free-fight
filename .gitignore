@@ -18,3 +18,9 @@ project/plugins/project/
 .worksheet
 
 .idea
+
+# Emacs
+.ensime
+.ensime_cache/
+*~
+
