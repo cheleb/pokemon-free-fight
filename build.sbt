@@ -20,7 +20,7 @@ scalacOptions ++= Seq(
 resolvers += Resolver.jcenterRepo
 
 libraryDependencies in ThisBuild ++= {
-  val akkaV = "2.4.9-RC2"
+  val akkaV = "2.4.9"
   val akkaCirceV = "1.7.0"
   val circeV = "0.4.1"
   val catsV = "0.5.0"
